@@ -10,3 +10,8 @@ My keyboard has a closer 1.25U backspace which is near to the key P, one functio
 
 ![image](https://user-images.githubusercontent.com/46231785/113016869-77cb8e80-91b1-11eb-834a-982fad4d0802.png)
 Here is my special layout.
+
+
+
+
+Thanks to the KLE and KFB for helping me design my own layout more easily.
