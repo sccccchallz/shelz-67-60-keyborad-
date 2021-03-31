@@ -1,5 +1,5 @@
 # shelz-67-60-keyborad-
-This is a 67keys keyboard by shelz
+This is a 67-key keyboard by shelz
 (Still working on it)
 
 
