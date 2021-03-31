@@ -12,7 +12,8 @@ My keyboard has a closer 1.25U backspace which is near to the key P , one functi
 Well, I am a brake spacebar lover lol.
 And due to my IME useed to typing chinese does not require the numbers to choose characters, I was trying to design the 40%, however, my mom and gf are still using the traditional IME，I switched to 60%, If you are from the English speaking contry, you could just delete the first row and switch tab to esc, the tab could use the fn2 to type in, this is why I put the fn2 to the left of the backspace, one is to reduce the typo on the backspace, one is for the easier access to the function key.
 
-![image](https://user-images.githubusercontent.com/46231785/113016869-77cb8e80-91b1-11eb-834a-982fad4d0802.png)
+![image](https://user-images.githubusercontent.com/46231785/113172495-0f48e400-927b-11eb-843a-8ca2584a49f9.png)
+
 Here is my special layout.
 
 
