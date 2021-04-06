@@ -16,7 +16,7 @@ And due to my IME useed to typing chinese does not require the numbers to choose
 
 Here is my special layout.
 
-
+the json file for the lceda is in the folder. If you are from China and using the lceda(立创)　you could use dah.
 
 
 Thanks the KLE and KFB for helping me design my own layout more easily.
